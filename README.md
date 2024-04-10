@@ -45,7 +45,8 @@ To run the program, follow these steps:
 
 6. Enter the required data in the input fields and click on the "Generate Report" button to generate the carbon footprint report.
 
-   ![Screenshot 2024-04-10 150309](https://github.com/Rohit-Garode/GISMA/assets/76519295/c36c42ef-aa48-4fdf-a590-f7e5086aef63)
+   ![Screenshot 2024-04-10 153354](https://github.com/Rohit-Garode/GISMA/assets/76519295/364f5863-0cdc-438e-87c4-214d9cb1dfeb)
+
 
 
 ## Requirements
@@ -54,4 +55,4 @@ To run the program, follow these steps:
 - Tkinter
 - Matplotlib
 - Datetime
-- webbrowser
+- Webbrowser
