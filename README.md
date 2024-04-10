@@ -54,5 +54,3 @@ To run the program, follow these steps:
 - Python 3.x
 - Tkinter
 - Matplotlib
-- Datetime
-- Webbrowser
