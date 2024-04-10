@@ -25,7 +25,7 @@ To run the program, follow these steps:
 
 2. Clone this repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Rohit-Garode/M602A_Computer_Programming_WS0124.git
    ```
 
 3. Navigate to the directory containing the code:
