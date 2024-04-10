@@ -1,4 +1,4 @@
-# Carbon Footprint Monitoring Program
+# Carbon Footprint Monitoring Tool
 
 This program is designed to help users monitor and analyze their carbon footprint based on various factors such as energy usage, waste generation, and business travel. The program provides a user-friendly interface to input relevant data and generates a detailed report along with suggestions for reducing carbon emissions.
 
